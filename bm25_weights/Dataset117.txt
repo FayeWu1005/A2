@@ -1,0 +1,10 @@
+attack 35.0
+product 35.0
+member 35.0
+problem 35.0
+director 35.0
+area 35.0
+engin 35.0
+number 35.0
+scottish 35.0
+ppl 35.0
