@@ -3,7 +3,7 @@ import sys
 import os
 from stemming.porter2 import stem
 from F1 import topicInfo
-from A2_refwk9 import parse_rcv_coll
+from models import parse_rcv_coll
 
 
 def w5(coll, ben, theta):
